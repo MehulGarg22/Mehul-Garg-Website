@@ -1,7 +1,7 @@
 Step 1: Clone repository
 
 Method 1(HTTPS Method): git clone https://github.com/MehulGarg22/Mehul-Garg-Website.git
-            OR
+         <br>   OR <br>
 Method 2(SSH Method): git clone git@github.com:MehulGarg22/Mehul-Garg-Website.git
 
 Step 2:
